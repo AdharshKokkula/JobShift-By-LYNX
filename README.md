@@ -1,13 +1,10 @@
-# Resume-Cover-Letter-Generator
-
 ---
-title: "Resume and Cover Letter Generator"
-emoji: "📈"
-colorFrom: "Blue"
-colorTo: "red"
-sdk: "streamlit"
-sdk_version:  "1.42.0"
-app_file: app.py
+license: mit
+title: Resume and Cover Letter Generator
+sdk: streamlit
+emoji: 🌖
+colorFrom: red
+colorTo: green
 pinned: false
-short_description: 'I will Tailor the resume and Generate the Cover Letter based on Job Description'
+short_description: Generate Resume and Cover Letter based on job description
 ---
