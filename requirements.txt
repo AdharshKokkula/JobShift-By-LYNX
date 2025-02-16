@@ -1,0 +1,14 @@
+langchain
+transformers
+faiss-cpu
+pinecone-client
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdfplumber
+python-docx
+pymupdf
+sentence-transformers
+langchain_community
+google-generativeai
