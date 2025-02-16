@@ -7,4 +7,5 @@ colorFrom: red
 colorTo: green
 pinned: false
 short_description: Generate Resume and Cover Letter based on job description
+sdk_version: 1.42.0
 ---
